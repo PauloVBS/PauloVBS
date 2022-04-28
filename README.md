@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![Paulo Vinicius](https://github-readme-stats.vercel.app/api?username=PauloVBS&show_icons=true)
 
 - 🔭 I’m currently working on Music Teaching
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, C#, PHP.
 - 👯 I’m looking to collaborate on Open source Projects and anything that can include programation
 
 <!--
